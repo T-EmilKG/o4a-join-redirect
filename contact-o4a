@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Redirecting...</title>
+  <script>
+    window.onload = () => {
+      window.location.href =
+        "mailto:optimization4all@gmail.com?subject=I%20have%20a%20question%20about%20Optimization4All";
+    };
+  </script>
+</head>
+<body>
+  <p>Redirecting to your email client...</p>
+</body>
+</html>
